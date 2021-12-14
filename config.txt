@@ -1,0 +1,3 @@
+pyanalise=78
+audio=sim
+link=com5

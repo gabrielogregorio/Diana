@@ -1,0 +1,3 @@
+ligar luz;ligando
+desligar luz;desligando
+fazer nada;fazendo
